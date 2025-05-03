@@ -1,0 +1,32 @@
+{
+	"format_version":2,
+	"header":{
+		"name":"§l§a神金",
+		"description":"我们鸡眼版也有自己的神金\n作者：b站体某人",
+		"uuid":"2b6de4b1-1f74-4c6e-937b-77f5e9c1f199",
+		"version":[
+			1,
+			0,
+		    0
+		],
+		"min_engine_version":[
+			1,
+			20,
+			30
+		]
+	},
+	"modules":[
+		{
+			"description":"goldod",
+			"type":"resources",
+			"uuid":"1c710355-15e2-4293-8574-788eec05d35f",
+			"version":[
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies":[
+	]
+}
