@@ -84,3 +84,34 @@ item.dye.lightBlue.name=baka蓝染料	## 淡蓝色
 item.dye.lime.name=早苗绿染料	## 黄绿色
 item.dye.purple.name=基佬紫染料	## 紫色
 item.dye.red.name=城管红染料	## 红色
+
+tile.bed.notSafe=你现在不能游荡，周围有怪物在休息	#
+chat.type.sleeping=<%s> 睡觉。	#
+enchantment.level.9=⑨	#
+
+
+entity.cat.name=哈基米	#
+entity.ocelot.name=哈基豹	#
+howtoplay.pets.header.3=哈基米	#
+howtoplay.pets.text.3=哈基米是出没于村庄中的中立型生物。它们会攻击兔子和海龟宝宝。它们还会赶走幻翼和苦力怕。它们会试着躲着您，因此驯服它们可能并非易事。它们喜欢吃鱼，所以给它们喂生鳕鱼或鲑鱼来驯服它们。	#
+item.spawn_egg.entity.cat.name=生成哈基米	#
+item.spawn_egg.entity.ocelot.name=生成哈基豹	#
+tips.game.39=哈基豹会让苦力怕知道谁才是老大！	#
+midgameTips.26=哈基豹会让苦力怕知道谁才是老大！	#
+howtoplay.ranching.text.4=牛、哞菇和羊都吃小麦。猪可以吃胡萝卜或甜菜根。鸡喜欢吃各种种子。兔子吃胡萝卜、金胡萝卜或蒲公英。哈基豹喜欢吃生鳕鱼或鲑鱼。狼喜欢吃各种肉类。	#
+
+
+entity.llama.name=草泥马	#
+entity.trader_llama.name=行商草泥马	#
+entity.llama_spit.name=草泥马口水	#
+howtoplay.mounts.text.9=草泥马是另一可以驯服的可骑乘生物，可用来运输大件物品。 	#
+howtoplay.mounts.text.10=可以像驯服马一样驯服草泥马。但即使已经驯服草泥马，玩家在骑乘它们时仍然无法控制它们的行动。 	#
+howtoplay.mounts.text.11=可以用一根拴绳拴住一只草泥马，随后周围的草泥马（驯服和未驯服的草泥马）都将跟随其后，组成一支商队。 	#
+howtoplay.mounts.text.12=可以给草泥马装备箱子，根据草泥马的体力，给予草泥马 3 到 15 格物品栏空间。还可以给草泥马装备地毯。各色地毯的图案都各不相同。	#
+howtoplay.pets.text.2=狼是在较冷的气候中狩猎的中立型生物。它们会攻击兔子、骷髅和羊，但会远离草泥马。除非您向它们挑衅，否则它们不会攻击您。您可以通过给它们喂骨头来驯服它们。	#
+item.spawn_egg.entity.llama.name=生成草泥马	#
+item.spawn_egg.entity.trader_llama.name=生成行商草泥马	#
+joincode.icon_text.18=草泥马	#
+tips.game.11=用干草喂养草泥马！	#
+midgameTips.35=喂干草捆给草泥马吃！	#
+
