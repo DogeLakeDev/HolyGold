@@ -1,0 +1,2 @@
+# HolyGold
+神金
